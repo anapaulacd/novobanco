@@ -44,6 +44,7 @@ Aprendi o include_once é uma construção usada para incluir um arquivo em outr
 $_SESSION[] em PHP é uma superglobal usada para armazenar informações que persistem entre diferentes páginas durante a navegação do usuário.
  
  # autores
+ Lembrando que esse código não é de minha autoria parte dele foi disponibilizado em sala pelo orientador.
  
 [Ana Paula](https://github.com/anapaulacd)
  
