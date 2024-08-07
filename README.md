@@ -39,15 +39,11 @@
 * php
 
 ## 📄 Aprendizados
-Nessa atividade usamos conceitos básicos da linguagem PHP para fazer as somas e porcentagens de acordo com os valores adicionados no HTML através das áreas que reservei para isso e estilizei com CSS.
-  Com esse trabalho eu entendi um pouco mais de PHP conheci um pouco melhor a linguagem.
-Pratiquei conceito básico de HTML e CSS.
-Entendi como funciona as contas de porcentagem no PHP.
+Nessa atividade usamos conceitos básicos da linguagem PHP e como ligar uma aplicação com banco de dados. Com esse trabalho eu entendi um pouco mais de PHP conheci um pouco melhor a linguagem. 
+Aprendi o include_once é uma construção usada para incluir um arquivo em outro arquivo PHP durante a execução do script. Essa construção permite que você inclua um arquivo PHP dentro de outro para reutilizar código ou trazer funcionalidades adicionais sem duplicar o código existente.  session_start() é uma função que inicia uma nova sessão ou resume a sessão existente baseada em cookies de sessão ou identificadores passados por parâmetro na URL. $_POST['campo'] em PHP é uma variável superglobal que contém dados submetidos por formulários HTML utilizando o método POST.A função mysqli_query() em PHP executa uma consulta SQL em um banco de dados MySQL. Faz parte da extensão MySQLi
+$_SESSION[] em PHP é uma superglobal usada para armazenar informações que persistem entre diferentes páginas durante a navegação do usuário.
  
- 
- 
- 
-# autores
+ # autores
  
 [Ana Paula](https://github.com/anapaulacd)
  
