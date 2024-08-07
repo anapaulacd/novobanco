@@ -1,6 +1,7 @@
 <?php
+*/ ` inclui o arquivo `conexao.php`, que provavelmente contém a lógica de conexão com o banco de dados. 
 include('controller/conexao.php');
-
+*/ metodo post
 $descricao = $_POST['descricao'];
 
 echo "<h3>Descrição: $descricao</h3>";
