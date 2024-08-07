@@ -1,4 +1,5 @@
 <?php
+ */ inclui o arquivo `conexao.php`, contém a lógica de conexão com o banco de dados.
 include_once('controller/conexao.php');
 ?>
 <!DOCTYPE html>
@@ -17,6 +18,7 @@ include_once('controller/conexao.php');
         </div>
     </header>
     <section id="produtos">
+        */ Um formulário (`<form>`) é usado para inserir dados de um produto. Ele envia os dados para `insere-produto.php` via método POST.
     <form action="insere-produto.php" method="post">
         Nome: <input type="text" name="nome"><br>
         Descrição: <input type="text" name="descricao"><br>
